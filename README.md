@@ -1,3 +1,3 @@
 # test-repo
 
-** Troy has joined
+** Troy modified README.md from the dev-troy branch
